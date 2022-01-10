@@ -30,6 +30,14 @@ a:hover, a:focus {
   color: #2b4cdd;
 }
 
+.sub-pad {
+  margin: 35px;
+}
+
+.left-bord {
+  text-align: left;
+}
+
 a {
   color: #F97794;
   -webkit-transition: all 0.3s ease-in-out;
@@ -1032,7 +1040,7 @@ button:focus {
    Portfolio Section
    ========================================================================== */
 #portfolios {
-  background: #f9f9f9;
+  background: #ffffff;
 }
 
 #portfolios .mix {
